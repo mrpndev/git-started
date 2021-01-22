@@ -34,3 +34,11 @@
 // to remove an unstaged commit, use git reset <file_name>
 // to remove an entire commit, use git reset --hard <commit hash BEFORE the ones you want removed>
 
+// to add remote branch
+// check if any exist using git remote -v
+// if none exist, and you've created a repo on GitHub
+// run git remote add <name_of_remote_stream> <github_repo_url>
+
+// to push to GitHub
+// git push <name_of_remote_stream> <name_of_branch>
+// you must sit on the branch that you are pushing up
