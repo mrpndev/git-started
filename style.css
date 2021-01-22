@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    background-color: lightgray;
+}
+
+.git {
+    padding-left: 20px;
+    padding-right: 50px;
+}
