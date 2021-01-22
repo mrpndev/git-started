@@ -21,3 +21,12 @@
 
 // to commit your files, use git commit -m "your message here"
 
+// to see all of your commit history, use git log
+
+// to create new branch, use git branch <new_branch_name>
+// OR
+// to create new branch and switch to it, use git checkout -b <branch_name>
+
+// to switch between branches, use git checkout <branch_name>
+
+// to delete a branch, use use git branch -D <branch_name>
