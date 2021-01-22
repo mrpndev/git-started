@@ -30,3 +30,7 @@
 // to switch between branches, use git checkout <branch_name>
 
 // to delete a branch, use use git branch -D <branch_name>
+
+// to remove an unstaged commit, use git reset <file_name>
+// to remove an entire commit, use git reset --hard <commit hash BEFORE the ones you want removed>
+
